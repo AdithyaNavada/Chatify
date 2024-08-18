@@ -23,5 +23,5 @@ This is a real-time chat application built using HTML, CSS, JavaScript, Node.js,
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AdithyaNavada/Chat-Application.git
+   git clone https://github.com/AdithyaNavada/Chatify.git
 
